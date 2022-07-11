@@ -1,7 +1,9 @@
 # Loan-Eligibility-Project-With-Machine-Learning
 Predicting Loan Eligibility of Applicants
 ### Project Objectives
-This project is to build a **Machine Learning Model** to assist a bank that has received loan applications than it typically receives to predict applicants who are eligible (Creditworthy) for the loan and those that are not.
+In this project, different **Machine Learning Models** are build and the best is selected to assist a bank that has received loan applications
+
+than it typically receives, predict applicants who are eligible (Creditworthy) for the loan and those that are not.
 
 Besides the prediction, the management team wants to know important features used  by the model for further decisons.
 
